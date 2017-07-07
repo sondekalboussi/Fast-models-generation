@@ -7,7 +7,7 @@ An accurate detection of distantly related homologs can facilitate the assignmen
 
 Comparative modelling of proteins using  the program MODELLER has been used in this study. MODELLER program generates three dimensional homology models of proteins with unknown structure. The method relies on an input sequence alignment between the target amino acid sequence to be modeled and a template protein whose structure has been solved. 
 
-My work is involved in new approch for 3D protein structure prediction for remote homolgous using fast generated profiles and HMM-HMM alignment to produce fast and accurate models hopefully that will be used in the Topcons web server for consensus prediction of membrane protein topology.
+My work is involved in new approch for 3D protein structure prediction for remote homolgues using fast generated profiles and HMM-HMM alignment to produce fast and accurate models hopefully that will be used in the Topcons web server for consensus prediction of membrane protein topology.
 
 The main goal of this study is to produce good models for remote homologs in less time than the traditional method.
  
